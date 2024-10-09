@@ -12,9 +12,8 @@ I'm is a Validator Personal!
 
 🌱 Mainet: 
 
-Contact: chu3ok@gmail.com
-Discord: yushita.initia
-X: https://twitter.com/YushitaJp
+Discord: yushitajp
+X: https://twitter.com/Yushita
 <!--
 **YushitaValidator/YushitaValidator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
