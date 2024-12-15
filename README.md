@@ -10,6 +10,8 @@ I'm is a Validator Personal!
 
 🔭Side Protocol Validator: https://explorer.nodestake.org/side-testnet/staking/bcvaloper1ynnq4d9xly5tvz5zrgwwl45wv75vqrsgd2raw0
 
+  Celestia Light node! 
+
 🌱 Mainet: 
 
 Discord: yushitajp
