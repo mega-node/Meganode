@@ -6,9 +6,9 @@ I'm is a Validator Personal!
 
 🌱 Testnet:
  
-🔭RollApps:https://devnet.dymension.xyz/rollapp/peterpan_4753248-1/metrics
+🔭RollApps:https://devnet.dymension.xyz/rollapp/peterpan_4753248-1/metrics  ( Concluded)
 
-🔭Side Protocol Validator: https://explorer.nodestake.org/side-testnet/staking/bcvaloper1ynnq4d9xly5tvz5zrgwwl45wv75vqrsgd2raw0
+🔭Side Protocol Validator: https://explorer.nodestake.org/side-testnet/staking/bcvaloper1ynnq4d9xly5tvz5zrgwwl45wv75vqrsgd2raw0 ( Concluded)
 
   Celestia Light node! 
 
